@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Under migration.
-
+Under Construction
+======
+Assistant Professor, Department of Economics, Queens College, CUNY 
 
