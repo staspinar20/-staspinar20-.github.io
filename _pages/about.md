@@ -10,5 +10,5 @@ redirect_from:
 
 Under Construction
 ======
-Assistant Professor, Department of Economics, Queens College, CUNY 
+Associate Professor, Department of Economics, Queens College, CUNY 
 
