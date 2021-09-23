@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Suleyman Taspinar"
 title_separator          : "-"
 name                     : &name "Suleyman Taspinar"
-description              : &description "personal description"
+description              : &description "Associate Professor"
 url                      : https://staspinar20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staspinar20/staspinar20.github.io"
+repository               : "staspinar20.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Suleyman Taspinar"
+  avatar           : "QCB.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
